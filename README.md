@@ -1,3 +1,5 @@
+[![](https://visitcount.itsvg.in/api?id=HugoTokairim&icon=0&color=0)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
 With 1.5 years of experience as a Quality Assurance Analyst, I am now looking for opportunities as a Junior Data Analyst. I have a diploma in Computer Information Systems and am passionate about data analysis and visual exploration. My experience in QA has given me attention to detail and problem-solving skills that I am eager to utilize in a data analyst role. I am comfortable with Excel and have gained knowledge of data analysis techniques and principles throughout my experience with NPower Canada. I am eager to use my skills and knowledge to become a valuable asset to any organization.<br><br>
 
@@ -15,6 +17,4 @@ With 1.5 years of experience as a Quality Assurance Analyst, I am now looking fo
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=HugoTokairim&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 ---
-[![](https://visitcount.itsvg.in/api?id=HugoTokairim&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
