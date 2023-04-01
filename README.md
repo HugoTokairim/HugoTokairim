@@ -12,7 +12,6 @@ With 1.5 years of experience as a Quality Assurance Analyst, I am now looking fo
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=HugoTokairim&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HugoTokairim&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoTokairim&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=HugoTokairim&theme=discord&no-frame=false&no-bg=true&margin-w=4)
